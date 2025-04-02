@@ -1,6 +1,6 @@
 {
     "name": "manthan-currency-converter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "An npm library for currency converter",
     "main": "index.js",
     "type": "module",
@@ -12,7 +12,7 @@
         "url": "git+https://github.com/Manthancode28/manthan-currency-converter.git"
     },
     "keywords": [
-        "npm"
+        "npm", "manthan", "currency", "currency-converter", "Manthan", "money", "convert"
     ],
     "author": "Manthan Nimonkar",
     "license": "Apache-2.0",
